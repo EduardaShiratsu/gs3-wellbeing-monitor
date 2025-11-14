@@ -77,3 +77,5 @@ Workflow focado na validação do projeto antes da geração de uma release:
 ### Referências
 
 SpringDoc OpenAPI
+
+...
