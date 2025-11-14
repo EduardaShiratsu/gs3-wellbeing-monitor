@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: lucaslimb/gs-3-wellbeing-monitor:latest
+          tags: eduardashiratsu/gs3-wellbeing-monitor:latest
